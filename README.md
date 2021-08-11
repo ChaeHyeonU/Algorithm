@@ -1,4 +1,4 @@
-# Algorithm
+# Algorithm (Python3)
 알고리즘 문제 푼거(백준, 프로그래머스)
 
 백준
