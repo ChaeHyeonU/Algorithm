@@ -22,5 +22,6 @@ PG_Sort3 H-Index
 
 PG_BruteForceSearch1 모의고사   
 PG_BruteForceSearch2 소수찾기   
+PG_BruteForceSearch3 카펫   
 
 PG_BinarySearch1 입국심사   
