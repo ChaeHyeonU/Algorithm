@@ -25,3 +25,5 @@ PG_BruteForceSearch2 소수찾기
 PG_BruteForceSearch3 카펫   
 
 PG_BinarySearch1 입국심사   
+
+PG_Greedy2 조이스틱
