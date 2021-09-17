@@ -6,7 +6,6 @@
 1655 가운데를 말해요   
 2458 키 순서
 
-
 # 프로그래머스
 
 PG_Hash1 완주하지 못한 선수   
@@ -27,3 +26,11 @@ PG_BruteForceSearch3 카펫
 PG_BinarySearch1 입국심사   
 
 PG_Greedy2 조이스틱
+
+PG_kakao2020_keypad 키패드누르기
+
+PG_kakao2021_id 신규 아이디 추천
+PG_kakao2021_menu 메뉴 리뉴얼
+PG_kakao2021_stringtoeng 숫자 문자열과 영단어
+
+PG_skt1 ??????어떤문제였는지 기억이안남??????
